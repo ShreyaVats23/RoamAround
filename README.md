@@ -5,6 +5,8 @@ A smart travel assistant for first-time visitors to Delhi
 
 # 📽️ Demo Video
 Check out the current progress of the project in this short screen recording:
+https://github.com/user-attachments/assets/4a71b5d2-4b63-4810-a77b-8387d2efdc13
+
 
 
 # 🚧 Project Status
